@@ -6,11 +6,10 @@ Current version: v3.0.4 (24/01/2022)
 
 [BetterDiscord download](https://betterdiscord.app/theme/MaterialDiscord)
 <br>
-[View add-on themes](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Material-Discord/css/addons)
 
 Vencord link
 ```
-https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css
+https://raw.githubusercontent.com/Clone69420/Material-Discord/master/Material-Discord.theme.css
 ```
 
 ## Previews
