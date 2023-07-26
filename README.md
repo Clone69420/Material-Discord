@@ -2,12 +2,12 @@
 #### A theme based on Google's Material Design
 <hr>
 
-Current version: v3.0.4 (24/01/2022)
+Current version: v4.0.0 (27/07/2023)
 
 [BetterDiscord download](https://betterdiscord.app/theme/MaterialDiscord)
 <br>
 
-Vencord link
+## Vencord
 ```
 https://raw.githubusercontent.com/Clone69420/Material-Discord/master/Material-Discord.theme.css
 ```
